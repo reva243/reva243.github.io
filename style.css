@@ -4,11 +4,8 @@ body {
   /* styles.css */
   border: 2px solid navy
 }
-
-  text-align: left;
-}
-
   h1   {
+    text-align: center;
     color:darkblue;
     font-family:verdana;
     font-size:200%;
@@ -20,11 +17,17 @@ body {
     font-size:120%;
 }
   h3   {
+    text-align: center;
     font-family:Times;
     font-size:120%;
 }
   h4   {
     font-family:arial;
     font-size:100%;
-    color:dimgray;
+    color:dimgrey;
+}
+h5    {
+    text-align: center;
+    font-family:Times;
+    font-size:120%;
 }
